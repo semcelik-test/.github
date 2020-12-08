@@ -1,0 +1,9 @@
+{
+  "name": "Bump and Release",
+  "description": "Bumps version and creates release",
+  "icon-name": "example-icon",
+  "categories": [
+    "TypeScript",
+    "JavaScript"
+  ]
+}

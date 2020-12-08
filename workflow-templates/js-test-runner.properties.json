@@ -1,0 +1,9 @@
+{
+  "name": "Test Runner",
+  "description": "Javascript test runner workflow template",
+  "icon-name": "example-icon",
+  "categories": [
+    "TypeScript",
+    "JavaScript"
+  ]
+}

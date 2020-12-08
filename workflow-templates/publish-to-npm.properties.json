@@ -1,0 +1,9 @@
+{
+  "name": "Publish to NPM",
+  "description": "Publish to npm on every release",
+  "icon-name": "example-icon",
+  "categories": [
+    "TypeScript",
+    "JavaScript"
+  ]
+}
